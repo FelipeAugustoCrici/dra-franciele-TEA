@@ -41,7 +41,7 @@ export default function Footer() {
           <div>
             <p className="font-semibold mb-3 text-indigo-200">Contato</p>
             <div className="space-y-2 text-sm text-indigo-300">
-              <p>📧 contato@draanapaula.com.br</p>
+              <p>📧 contato@francielegross.com.br</p>
               <p>🌎 Atendimento online em todo o Brasil</p>
               <a
                 href={whatsappLink}

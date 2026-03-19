@@ -5,14 +5,14 @@ export default function About() {
         {/* Photo placeholder */}
         <div className="flex justify-center">
           <div className="relative">
-            <div className="w-72 h-80 bg-gradient-to-b from-indigo-100 to-purple-100 rounded-3xl flex items-end justify-center overflow-hidden shadow-xl">
+            <div className="w-72 h-80 bg-gradient-to-b from-indigo-100 to-purple-100 rounded-3xl flex items-end justify-center shadow-xl">
               <div className="text-center pb-6">
-                <div className="text-7xl mb-2">👩‍⚖️</div>
+                <img src="/person.png" alt="Dra. Franciele Gross Augusto" className="w-48 h-48 object-cover object-top rounded-2xl mx-auto mb-3" />
                 <p className="font-bold text-indigo-800">Dra. Franciele Gross</p>
                 <p className="text-sm text-purple-600">OAB/SP 000.000</p>
               </div>
             </div>
-            <div className="absolute -bottom-4 -right-4 bg-indigo-600 text-white rounded-2xl px-4 py-3 shadow-lg">
+            <div className="absolute -top-4 -right-4 bg-indigo-600 text-white rounded-2xl px-4 py-3 shadow-lg">
               <p className="text-sm font-semibold">+8 anos de experiência</p>
               <p className="text-xs opacity-80">em direitos do autismo</p>
             </div>

@@ -73,7 +73,7 @@ export default function Rights() {
             Me conta sua situação. A consulta inicial é gratuita e sem compromisso.
           </p>
           <a
-            href="https://wa.me/5511999999999?text=Ol%C3%A1%21+Gostaria+de+saber+mais+sobre+meus+direitos+relacionados+ao+autismo."
+            href="https://wa.me/5548999443214?text=Ol%C3%A1%21+Gostaria+de+saber+mais+sobre+meus+direitos+relacionados+ao+autismo."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-white text-indigo-700 font-bold px-8 py-3 rounded-full hover:bg-indigo-50 transition-colors"

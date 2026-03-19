@@ -35,10 +35,10 @@ export default function Contact() {
             {
               icon: '📧',
               title: 'E-mail',
-              desc: 'contato@draanapaula.com.br',
+              desc: 'contato@francielegross.com.br',
               action: (
                 <a
-                  href="mailto:contato@draanapaula.com.br"
+                  href="mailto:contato@francielegross.com.br"
                   className="mt-3 inline-block text-sm font-semibold text-indigo-600 hover:underline"
                 >
                   Enviar e-mail →
